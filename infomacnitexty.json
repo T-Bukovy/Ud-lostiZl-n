@@ -2,24 +2,52 @@
     {
         "name": "Zámek",
         "date": "1904-1905",
-        "Architect": "Leopold Bauer",
+        "architect": "Leopold Bauer",
         "wgs84": {
             "latitude": "49.2257686",
             "longitude": "17.6631897"
         },
+        "adresa":"Soudní 1",
         "historyText": "Důležitý milník v budování moderního Zlína představuje proměna zámku a přilehlých pozemků ze soukromého majetku na veřejný. Od roku 1923 začíná František Lýdie Gahura projektovat regulační plány rychle se rozrůstajícího města. Zámecký areál nacházející se dříve na okraji historického centra se ocitl na spojnici mezi historickým a moderním centrem města. Majitelem rozlehlých pozemků panského statku byl Stefan Viktor Leopold Haubt von Buchenrode, potomek brněnských textilních podnikatelů. Ten v roce 1929 prodal zámek i přilehlý areál městu Zlín, v jehož čele stál starosta Tomáš Baťa. ",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/556_17cd43e00b.jpg"
     },
     {
         "name": "Měšťanská škola - Zlínský klub 204",
         "date": "1897",
-        "Architect": "Dominik Fey",
+        "architect": "Dominik Fey",
         "wgs84": {
             "latitude": "49.2251697",
             "longitude": "17.6656944"
         },
-        "historyText": "Důležitý milník v budování moderního Zlína představuje proměna zámku a přilehlých pozemků ze soukromého majetku na veřejný. Od roku 1923 začíná František Lýdie Gahura projektovat regulační plány rychle se rozrůstajícího města. Zámecký areál nacházející se dříve na okraji historického centra se ocitl na spojnici mezi historickým a moderním centrem města. Majitelem rozlehlých pozemků panského statku byl Stefan Viktor Leopold Haubt von Buchenrode, potomek brněnských textilních podnikatelů. Ten v roce 1929 prodal zámek i přilehlý areál městu Zlín, v jehož čele stál starosta Tomáš Baťa. ",
+        "adresa": "třída Tomáše Bati 204",
+        "historyText": "O možnosti zřídit ve Zlíně měšťanskou školu se mezi místními zastupiteli začíná diskutovat v návaznosti na změnu rakousko-uherského školského zákona už v roce 1872. Vzdělání, které doposud zajišťovaly obecné školy, měly o navazující tři ročníky rozšiřovat školy měšťanské. Než byla postavena nová neoklasicistní budova, která na dobových snímcích z počátku 20. století dominuje malému moravskému městu, uplynulo dlouhých 25 let. Zřízení měšťanské školy zamítla zemská školní rada poprvé roku 1875, nevyšel ani druhý a třetí pokus z let 1883 a 1891. Definitivní souhlas pochází až z roku 1893. Mezitím se rostoucí počet žáků vzdělával v provizorních učebnách v domě č. 174 a v dvoupodlažní obecní škole situované u kostela sv. Jakuba (dnes již zbourána).",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/564_17cd43e00b.jpg"
+
+    },
+    {
+        "name": "Prodejní centrum ABS / Tržnice a herny s barem ABS Zlín",
+        "date": "1993–1995",
+        "architect": "Jiří Gebrian",
+        "wgs84": {
+            "latitude": "49.2239711",
+            "longitude": "17.6613117"
+        },
+        "adresa": "Gahurova 4467",
+        "historyText": "Na místě bývalé ambulance a pozdějšího Čedoku byla mezi lety 1993 a 1995 postavena tržnice s hernami a barem ABS. Tvarově výrazná stavba stojící na okraji továrního areálu, mezi třídou Tomáše Bati a bývalým Domem kultury, patří k budovám reprezentujícím snad nejpřesněji dobu svého vzniku, tedy počátek 90. let. Objektu dominuje množství menších obchodních jednotek – kiosků, které dokládají potřebu nabídnout po revoluci začínajícím soukromým podnikatelům obchodní prostor. Oproti provizorním buňkám, které zaplnily historické centrum, nabízel nový objekt stylovější a komfortnější zázemí. Stejně jako 26 buněk na náměstí Míru měla však být i tržnice dočasnou stavbou.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1780_17cd43e00b.jpg"
+
+    },
+    {
+        "name": "Obchodní a obytný dům Františka Novosada",
+        "date": "1933",
+        "architect": "Miroslav Lorenc",
+        "wgs84": {
+            "latitude": "49.2270981",
+            "longitude": "17.6637431"
+        },
+        "adresa": "Bartošova 40/3",
+        "historyText": "Ulice Bartošova (dříve Kovářská) propojuje historický střed města – náměstí Míru – s nedalekým železničním nádražím. Z velké části sousedí s parkem Svobody, který přiléhá ke zlínskému zámku. Značně frekventovaná ulice procházela v průběhu 30. let zásadní proměnou, podobně jako ulice Rašínova. I zde si nechávali podnikatelé stavět moderní domy funkcionalistického stylu s obchodním parterem a obytnou částí ve vyšších patrech. Vedle oblíbené Malotovy kavárny se na ulici Bartošova nacházel také hojně navštěvovaný dům Františka Novosada, majitele oděvního domu. Autorem obou staveb je architekt Miroslav Lorenc, který se významně podílel na proměně „nebaťovské“ části města.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1444_17cd43e00b.jpg"
 
     }
 ]
