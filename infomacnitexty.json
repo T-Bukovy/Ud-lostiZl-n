@@ -49,5 +49,65 @@
         "historyText": "Ulice Bartošova (dříve Kovářská) propojuje historický střed města – náměstí Míru – s nedalekým železničním nádražím. Z velké části sousedí s parkem Svobody, který přiléhá ke zlínskému zámku. Značně frekventovaná ulice procházela v průběhu 30. let zásadní proměnou, podobně jako ulice Rašínova. I zde si nechávali podnikatelé stavět moderní domy funkcionalistického stylu s obchodním parterem a obytnou částí ve vyšších patrech. Vedle oblíbené Malotovy kavárny se na ulici Bartošova nacházel také hojně navštěvovaný dům Františka Novosada, majitele oděvního domu. Autorem obou staveb je architekt Miroslav Lorenc, který se významně podílel na proměně „nebaťovské“ části města.",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1444_17cd43e00b.jpg"
 
+    },
+    {
+        "name": "Budova 14 a 15",
+        "date": "1946–1949",
+        "architect": "Jiří Voženílek",
+        "wgs84": {
+            "latitude": "49.2248711",
+            "longitude": "17.6589275"
+        },
+        "adresa": "Vavrečkova 7040",
+        "historyText": "Při bombardování továrního areálu firmy Baťa spojeneckými letadly v listopadu 1944 zasáhla jedna z pum přímo budovu číslo 15 a téměř ji zničila. Vedlejší budova číslo 14 byla poškozena asi ze dvou třetin. Obě proto byly záhy po skončení války zbořeny. Na základě nového regulačního plánu továrny z roku 1946 z pera firemního architekta Jiřího Voženílka bylo rozhodnuto, že na jejich místě vyrostou pětietážové tovární haly nového typu, které Voženílek sám navrhl. Prototyp těchto budov byl podle Voženílkova projektu postaven již za okupace v jednom ze satelitů firmy Baťa v Baťovanech-Šimonovanech na Slovensku. Dva nové zrcadlově souměrné objekty 14 a 15 byly koncipovány tak, aby co nejvíce vyhovovaly novým požadavkům obuvnické výroby.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/385_17cd43e00b.jpg"
+    },
+    {
+        "name": "Budova 14 a 15",
+        "date": "1946–1949",
+        "architect": "Jiří Voženílek",
+        "wgs84": {
+            "latitude": "49.2248711",
+            "longitude": "17.6589275"
+        },
+        "adresa": "Vavrečkova 7040",
+        "historyText": "Při bombardování továrního areálu firmy Baťa spojeneckými letadly v listopadu 1944 zasáhla jedna z pum přímo budovu číslo 15 a téměř ji zničila. Vedlejší budova číslo 14 byla poškozena asi ze dvou třetin. Obě proto byly záhy po skončení války zbořeny. Na základě nového regulačního plánu továrny z roku 1946 z pera firemního architekta Jiřího Voženílka bylo rozhodnuto, že na jejich místě vyrostou pětietážové tovární haly nového typu, které Voženílek sám navrhl. Prototyp těchto budov byl podle Voženílkova projektu postaven již za okupace v jednom ze satelitů firmy Baťa v Baťovanech-Šimonovanech na Slovensku. Dva nové zrcadlově souměrné objekty 14 a 15 byly koncipovány tak, aby co nejvíce vyhovovaly novým požadavkům obuvnické výroby.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/385_17cd43e00b.jpg"
+    },
+    {
+        "name": "Budova 21",
+        "date": "1937–1939",
+        "architect": "Vladimír Karfík",
+        "wgs84": {
+            "latitude": "49.2230756",
+            "longitude": "17.6583900"
+        },
+        "adresa": "třída Tomáše Bati 21",
+        "historyText": "Ve druhé polovině 30. let se firma Baťa stává globálním koncernem, jenž pod vedením Jana Antonína Bati zaměstnává jen ve Zlíně přes 32 tisíc pracovníků (1937). Pro lepší organizaci uvnitř podniku se v roce 1936 začíná uvažovat o realizaci tří administrativních budov pro 2 tisíce úředníků. Objekty měly být standardizovanými pětietážovými stavbami navzájem propojenými mosty. Druhou variantou, kterou architekt Vladimír Karfík, šéf Stavebního oddělení, vedení podniku nabídl, byla výšková budova – 17poschoďový mrakodrap. Architekt zde mohl zúročit své zkušenosti z pracovních stáží v USA. Vize moderně vybavené výškové budovy měla pro podnik několik výhod",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/399_17cd43e00b.jpg"
+    },
+    {
+        "name": "Radnice",
+        "date": "1922–1924",
+        "architect": "František Lýdie Gahura",
+        "wgs84": {
+            "latitude": "49.2265694",
+            "longitude": "17.6661547"
+        },
+        "adresa": "náměstí Míru 12",
+        "historyText": "Radnice dokončená v roce 1924 vznikla podle plánu architekta Františka Lýdie Gahury a je to jedna z jeho prvních samostatných realizací. Výborně reprezentuje způsob, jakým pronikaly moderní formy architektury do prostředí tradičního historického jádra Zlína, tehdejšího Masarykova náměstí (dříve Hlavní, nyní náměstí Míru). To se od přelomu 19. a 20. století pomalu mění směrem k soudobému městskému vzezření. V roce 1896 se zde objevila novorenesanční budova Občanské záložny a kousek od náměstí i nová měšťanská škola od Dominika Feye.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/554_17cd43e00b.jpg"
+    },
+    {
+        "name": "Evangelický kostel",
+        "date": "1936–1937",
+        "architect": "Vladimír Karfík",
+        "wgs84": {
+            "latitude": "49.2242156",
+            "longitude": "17.6759761"
+        },
+        "adresa": "Štefánikova 3018",
+        "historyText": "Formování zlínského evangelického sboru spadá do 20. a 30. let 20. století. Prudký nárůst počtu protestantů tehdy zaznamenáváme ve spojitosti s příchodem velkého množství zaměstnanců do firmy Baťa ze všech koutů republiky. Od počátku 30. let se představitelé zlínských evangelíků snažili získat vhodný pozemek v širším centru města pro stavbu kostela. Bohoslužebný sál v malém domku na Hluboké ulici, který fungoval od roku 1928, brzy nedostačoval potřebám rozrůstajícího se společenství. Velkorysé představy o vzniku rozsáhlého areálu s kostelem, domy pro faráře, kostelníka a větší budovou pro setkávání mládeže zhmotnil v několika skicách stavební asistent Josef Zelinka roku 1934. Realizace narážela na vysoké ceny pozemků, zvláště když většinu volných stavebních parcel okamžitě kupovala firma Baťa pro své záměry. Jedinou schůdnou cestou se stala spolupráce s místní samosprávou. Starosta města Dominik Čipera stavbu podporoval a zřejmě díky jeho vlivu se firma Baťa uvolila prodat za výhodnou cenu svažitý trojúhelníkový pozemek mezi ulicemi Štefánikova a Kamenná (dnes Slovenská)",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1077_17cd43e00b.jpg"
     }
 ]
