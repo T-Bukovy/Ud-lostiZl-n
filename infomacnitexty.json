@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Zámek",
+        "date": "1904-1905",
+        "Architect": "Leopold Bauer",
+        "wgs84": {
+            "latitude": "49.2257686",
+            "longitude": "17.6631897"
+        },
+        "historyText": "Důležitý milník v budování moderního Zlína představuje proměna zámku a přilehlých pozemků ze soukromého majetku na veřejný. Od roku 1923 začíná František Lýdie Gahura projektovat regulační plány rychle se rozrůstajícího města. Zámecký areál nacházející se dříve na okraji historického centra se ocitl na spojnici mezi historickým a moderním centrem města. Majitelem rozlehlých pozemků panského statku byl Stefan Viktor Leopold Haubt von Buchenrode, potomek brněnských textilních podnikatelů. Ten v roce 1929 prodal zámek i přilehlý areál městu Zlín, v jehož čele stál starosta Tomáš Baťa. ",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/556_17cd43e00b.jpg"
+    },
+    {
+        "name": "Měšťanská škola - Zlínský klub 204",
+        "date": "1897",
+        "Architect": "Dominik Fey",
+        "wgs84": {
+            "latitude": "49.2251697",
+            "longitude": "17.6656944"
+        },
+        "historyText": "Důležitý milník v budování moderního Zlína představuje proměna zámku a přilehlých pozemků ze soukromého majetku na veřejný. Od roku 1923 začíná František Lýdie Gahura projektovat regulační plány rychle se rozrůstajícího města. Zámecký areál nacházející se dříve na okraji historického centra se ocitl na spojnici mezi historickým a moderním centrem města. Majitelem rozlehlých pozemků panského statku byl Stefan Viktor Leopold Haubt von Buchenrode, potomek brněnských textilních podnikatelů. Ten v roce 1929 prodal zámek i přilehlý areál městu Zlín, v jehož čele stál starosta Tomáš Baťa. ",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/564_17cd43e00b.jpg"
+
+    }
+]
