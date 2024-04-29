@@ -20,7 +20,7 @@
             "longitude": "17.6656944"
         },
         "adresa": "třída Tomáše Bati 204",
-        "historyText": "O možnosti zřídit ve Zlíně měšťanskou školu se mezi místními zastupiteli začíná diskutovat v návaznosti na změnu rakousko-uherského školského zákona už v roce 1872. Vzdělání, které doposud zajišťovaly obecné školy, měly o navazující tři ročníky rozšiřovat školy měšťanské. Než byla postavena nová neoklasicistní budova, která na dobových snímcích z počátku 20. století dominuje malému moravskému městu, uplynulo dlouhých 25 let. Zřízení měšťanské školy zamítla zemská školní rada poprvé roku 1875, nevyšel ani druhý a třetí pokus z let 1883 a 1891. Definitivní souhlas pochází až z roku 1893. Mezitím se rostoucí počet žáků vzdělával v provizorních učebnách v domě č. 174 a v dvoupodlažní obecní škole situované u kostela sv. Jakuba (dnes již zbourána).",
+        "historyText": "O možnosti zřídit ve Zlíně měšťanskou školu se mezi místními zastupiteli začíná diskutovat v návaznosti na změnu rakousko-uherského školského zákona už v roce 1872. Vzdělání, které doposud zajišťovaly obecné školy, měly o navazující tři ročníky rozšiřovat školy měšťanské. Než byla postavena nová neoklasicistní budova, která na dobových snímcích z počátku 20. století dominuje malému moravskému městu, uplynulo dlouhých 25 let. Zřízení měšťanské školy zamítla zemská školní rada poprvé roku 1875, nevyšel ani druhý a třetí pokus z let 1883 a 1891.",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/564_17cd43e00b.jpg"
 
     },
@@ -33,7 +33,7 @@
             "longitude": "17.6613117"
         },
         "adresa": "Gahurova 4467",
-        "historyText": "Na místě bývalé ambulance a pozdějšího Čedoku byla mezi lety 1993 a 1995 postavena tržnice s hernami a barem ABS. Tvarově výrazná stavba stojící na okraji továrního areálu, mezi třídou Tomáše Bati a bývalým Domem kultury, patří k budovám reprezentujícím snad nejpřesněji dobu svého vzniku, tedy počátek 90. let. Objektu dominuje množství menších obchodních jednotek – kiosků, které dokládají potřebu nabídnout po revoluci začínajícím soukromým podnikatelům obchodní prostor. Oproti provizorním buňkám, které zaplnily historické centrum, nabízel nový objekt stylovější a komfortnější zázemí. Stejně jako 26 buněk na náměstí Míru měla však být i tržnice dočasnou stavbou.",
+        "historyText": "Na místě bývalé ambulance a pozdějšího Čedoku byla mezi lety 1993 a 1995 postavena tržnice s hernami a barem ABS. Tvarově výrazná stavba stojící na okraji továrního areálu, mezi třídou Tomáše Bati a bývalým Domem kultury, patří k budovám reprezentujícím snad nejpřesněji dobu svého vzniku, tedy počátek 90. let. Objektu dominuje množství menších obchodních jednotek – kiosků, které dokládají potřebu nabídnout po revoluci začínajícím soukromým podnikatelům obchodní prostor. Oproti provizorním buňkám, které zaplnily historické centrum, nabízel nový objekt stylovější a komfortnější zázemí.",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1780_17cd43e00b.jpg"
 
     },
@@ -59,19 +59,7 @@
             "longitude": "17.6589275"
         },
         "adresa": "Vavrečkova 7040",
-        "historyText": "Při bombardování továrního areálu firmy Baťa spojeneckými letadly v listopadu 1944 zasáhla jedna z pum přímo budovu číslo 15 a téměř ji zničila. Vedlejší budova číslo 14 byla poškozena asi ze dvou třetin. Obě proto byly záhy po skončení války zbořeny. Na základě nového regulačního plánu továrny z roku 1946 z pera firemního architekta Jiřího Voženílka bylo rozhodnuto, že na jejich místě vyrostou pětietážové tovární haly nového typu, které Voženílek sám navrhl. Prototyp těchto budov byl podle Voženílkova projektu postaven již za okupace v jednom ze satelitů firmy Baťa v Baťovanech-Šimonovanech na Slovensku. Dva nové zrcadlově souměrné objekty 14 a 15 byly koncipovány tak, aby co nejvíce vyhovovaly novým požadavkům obuvnické výroby.",
-        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/385_17cd43e00b.jpg"
-    },
-    {
-        "name": "Budova 14 a 15",
-        "date": "1946–1949",
-        "architect": "Jiří Voženílek",
-        "wgs84": {
-            "latitude": "49.2248711",
-            "longitude": "17.6589275"
-        },
-        "adresa": "Vavrečkova 7040",
-        "historyText": "Při bombardování továrního areálu firmy Baťa spojeneckými letadly v listopadu 1944 zasáhla jedna z pum přímo budovu číslo 15 a téměř ji zničila. Vedlejší budova číslo 14 byla poškozena asi ze dvou třetin. Obě proto byly záhy po skončení války zbořeny. Na základě nového regulačního plánu továrny z roku 1946 z pera firemního architekta Jiřího Voženílka bylo rozhodnuto, že na jejich místě vyrostou pětietážové tovární haly nového typu, které Voženílek sám navrhl. Prototyp těchto budov byl podle Voženílkova projektu postaven již za okupace v jednom ze satelitů firmy Baťa v Baťovanech-Šimonovanech na Slovensku. Dva nové zrcadlově souměrné objekty 14 a 15 byly koncipovány tak, aby co nejvíce vyhovovaly novým požadavkům obuvnické výroby.",
+        "historyText": "Při bombardování továrního areálu firmy Baťa spojeneckými letadly v listopadu 1944 zasáhla jedna z pum přímo budovu číslo 15 a téměř ji zničila. Vedlejší budova číslo 14 byla poškozena asi ze dvou třetin. Obě proto byly záhy po skončení války zbořeny. Na základě nového regulačního plánu továrny z roku 1946 z pera firemního architekta Jiřího Voženílka bylo rozhodnuto, že na jejich místě vyrostou pětietážové tovární haly nového typu, které Voženílek sám navrhl. Prototyp těchto budov byl podle Voženílkova projektu postaven již za okupace v jednom ze satelitů firmy Baťa v Baťovanech-Šimonovanech na Slovensku.",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/385_17cd43e00b.jpg"
     },
     {
@@ -109,5 +97,41 @@
         "adresa": "Štefánikova 3018",
         "historyText": "Formování zlínského evangelického sboru spadá do 20. a 30. let 20. století. Prudký nárůst počtu protestantů tehdy zaznamenáváme ve spojitosti s příchodem velkého množství zaměstnanců do firmy Baťa ze všech koutů republiky. Od počátku 30. let se představitelé zlínských evangelíků snažili získat vhodný pozemek v širším centru města pro stavbu kostela. Bohoslužebný sál v malém domku na Hluboké ulici, který fungoval od roku 1928, brzy nedostačoval potřebám rozrůstajícího se společenství. Velkorysé představy o vzniku rozsáhlého areálu s kostelem, domy pro faráře, kostelníka a větší budovou pro setkávání mládeže zhmotnil v několika skicách stavební asistent Josef Zelinka roku 1934. Realizace narážela na vysoké ceny pozemků, zvláště když většinu volných stavebních parcel okamžitě kupovala firma Baťa pro své záměry. Jedinou schůdnou cestou se stala spolupráce s místní samosprávou. Starosta města Dominik Čipera stavbu podporoval a zřejmě díky jeho vlivu se firma Baťa uvolila prodat za výhodnou cenu svažitý trojúhelníkový pozemek mezi ulicemi Štefánikova a Kamenná (dnes Slovenská)",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1077_17cd43e00b.jpg"
+    },
+    {
+        "name": "Obchodní a obytný dům pro Marii a Jana Ševců",
+        "date": "1936–1937",
+        "architect": "Viktor Jandásek",
+        "wgs84": {
+            "latitude": "49.2237844",
+            "longitude": "17.6661581"
+        },
+        "adresa": "Štefánikova 1577/1",
+        "historyText": "Na rohu ulic Štefánikova a Školní byl mezi lety 1936 až 1937 postaven obchodní a obytný dům pro Marii a Jana Ševců. Podobně jako jiné činžovní domy ve Zlíně nabízel i tento ubytovací kapacity s menšími i velkometrážními byty a svobodárnami. Tato funkce byla v parteru doplněna o obchodní jednotky. Původní návrh dvoupatrového domu byl v prosinci 1936 změněn a dům zvýšen o další podlaží. Argumentů pro tuto změnu bylo několik. Ulice měla získat na výstavnosti, proto se výška dorovnala s výškou již existujícího domu na ulici Štefánikově. Základy domu již navíc byly dimenzovány i pro třetí patro. Jedním z dalších důvodů bylo plánované zvětšení obytné plochy, čímž se zvedla také rentabilita finančního zatížení pro manžele Ševcovy. V době pokračující hospodářské krize se jednalo o způsob, jak bezpečně investovat. ",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1040_17cd43e00b.jpg"
+    },
+    {
+        "name": "Činžovní dům manželů Čistínových",
+        "date": "1938–1939",
+        "architect": "Zdeněk Plesník, František Sedláček",
+        "wgs84": {
+            "latitude": "49.2239003",
+            "longitude": "17.6661203"
+        },
+        "adresa": "Školní 3297/17",
+        "historyText": "V roce 1937 byla tehdejší ulice Školní kompletně asanována, nejednalo se však o ulici, která dnes propojuje Štefánikovu a třídu Tomáše Bati, ale o starou cestu vedoucí od náměstí Míru ke kostelu. Dnešní ulice Školní byla zastavována postupně v průběhu následujících let.V bezprostřední blízkosti nově zpřístupněného parku vznikla v krátkém čase také nová ulice s moderní zástavbou. Své domy zde nechávali stavět zlínští podnikatelé a zámožnější vrstva měšťanů, kteří v době hospodářské krize investovali do činžovních domů přinášejících stabilní příjmy z nájmů. Jedním z příkladů kvalitní funkcionalistické architektury vzniklé ve městě nezávisle na firmě Baťa je i dům pro Arnošta a Antonii Čistínovy, majitele továrny na ovocné konzervy. Ulice Školní, stejně jako původní historický střed města či ulice Rašínova, se díky těmto domům s neonovými reklamami proměnila v moderní městské centrum.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1018_17cd43e00b.jpg"
+    },
+    {
+        "name": "Dům Aloise Nakládala",
+        "date": "1933",
+        "architect": "Miroslav Lorenc",
+        "wgs84": {
+            "latitude": "49.2253722",
+            "longitude": "17.6660853"
+        },
+        "adresa": "Školní 203",
+        "historyText": "Zlínský podnikatel Alois Nakládal vlastnil úspěšné zelinářství a ve středu starého Zlína postupně vlastnil několik nemovitostí. Jednou z nich je například dům, který si nechal postavit koncem 20. let na Rašínově ulici, ale již počátkem 30. let jej prodal.  Jeho další dům stojí na rohu ulic Komenského (dnešní třída Tomáše Bati) a Školní, delší stranou fasády orientovaný k bývalé Komenského škole. Tento polyfunkční dům na Školní ulici č. p. 203 byl postaven pro manžele Aloise a Františku Nakládalovy podle návrhu Miroslava Lorence, významného architekta „nebaťovské“ tváře Zlína. Lorenc po přesunu z Prahy do Zlína více než rok působil ve Stavebním oddělení firmy Baťa, ale nakonec se prosadil jako samostatný architekt, pro zlínské měšťany a živnostníky vytvořil asi 60 realizací. Nakládalův dům má obvyklou typologii kombinující komerční a obytnou funkci. ",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1021_17cd43e00b.jpg"
     }
 ]
