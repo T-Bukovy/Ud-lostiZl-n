@@ -95,7 +95,7 @@
             "longitude": "17.6759761"
         },
         "adresa": "Štefánikova 3018",
-        "historyText": "Formování zlínského evangelického sboru spadá do 20. a 30. let 20. století. Prudký nárůst počtu protestantů tehdy zaznamenáváme ve spojitosti s příchodem velkého množství zaměstnanců do firmy Baťa ze všech koutů republiky. Od počátku 30. let se představitelé zlínských evangelíků snažili získat vhodný pozemek v širším centru města pro stavbu kostela. Bohoslužebný sál v malém domku na Hluboké ulici, který fungoval od roku 1928, brzy nedostačoval potřebám rozrůstajícího se společenství. Velkorysé představy o vzniku rozsáhlého areálu s kostelem, domy pro faráře, kostelníka a větší budovou pro setkávání mládeže zhmotnil v několika skicách stavební asistent Josef Zelinka roku 1934. Realizace narážela na vysoké ceny pozemků, zvláště když většinu volných stavebních parcel okamžitě kupovala firma Baťa pro své záměry. Jedinou schůdnou cestou se stala spolupráce s místní samosprávou. Starosta města Dominik Čipera stavbu podporoval a zřejmě díky jeho vlivu se firma Baťa uvolila prodat za výhodnou cenu svažitý trojúhelníkový pozemek mezi ulicemi Štefánikova a Kamenná (dnes Slovenská)",
+        "historyText": "Formování zlínského evangelického sboru do 20. a 30. let 20. století bylo odpovědí na nárůst protestantů kvůli přílivu zaměstnanců do firmy Baťa. Snažili se získat pozemek pro kostel, což se podařilo díky spolupráci s městskou samosprávou a firmou Baťa. Kostel navrhl Vladimír Karfík a stavbu realizoval Josef Winkler. Jeho design vycházel z funkcionalistických principů a zahrnoval jednoduché bazilikální trojlodí s nízkou věží. Interiér byl strohý, včetně kazatelny a lavic, což odpovídalo protestantské tradici. Kostel se zachoval v autentickém stavu, což svědčí o kvalitě Karfíkovy architektury",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1077_17cd43e00b.jpg"
     },
     {
@@ -119,7 +119,7 @@
             "longitude": "17.6661203"
         },
         "adresa": "Školní 3297/17",
-        "historyText": "V roce 1937 byla tehdejší ulice Školní kompletně asanována, nejednalo se však o ulici, která dnes propojuje Štefánikovu a třídu Tomáše Bati, ale o starou cestu vedoucí od náměstí Míru ke kostelu. Dnešní ulice Školní byla zastavována postupně v průběhu následujících let.V bezprostřední blízkosti nově zpřístupněného parku vznikla v krátkém čase také nová ulice s moderní zástavbou. Své domy zde nechávali stavět zlínští podnikatelé a zámožnější vrstva měšťanů, kteří v době hospodářské krize investovali do činžovních domů přinášejících stabilní příjmy z nájmů. Jedním z příkladů kvalitní funkcionalistické architektury vzniklé ve městě nezávisle na firmě Baťa je i dům pro Arnošta a Antonii Čistínovy, majitele továrny na ovocné konzervy. Ulice Školní, stejně jako původní historický střed města či ulice Rašínova, se díky těmto domům s neonovými reklamami proměnila v moderní městské centrum.",
+        "historyText": "V roce 1937 byla tehdejší ulice Školní kompletně asanována, nejednalo se však o ulici, která dnes propojuje Štefánikovu a třídu Tomáše Bati, ale o starou cestu vedoucí od náměstí Míru ke kostelu. Dnešní ulice Školní byla zastavována postupně v průběhu následujících let.V bezprostřední blízkosti nově zpřístupněného parku vznikla v krátkém čase také nová ulice s moderní zástavbou. Své domy zde nechávali stavět zlínští podnikatelé a zámožnější vrstva měšťanů, kteří v době hospodářské krize investovali do činžovních domů přinášejících stabilní příjmy z nájmů",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1018_17cd43e00b.jpg"
     },
     {
@@ -131,7 +131,19 @@
             "longitude": "17.6660853"
         },
         "adresa": "Školní 203",
-        "historyText": "Zlínský podnikatel Alois Nakládal vlastnil úspěšné zelinářství a ve středu starého Zlína postupně vlastnil několik nemovitostí. Jednou z nich je například dům, který si nechal postavit koncem 20. let na Rašínově ulici, ale již počátkem 30. let jej prodal.  Jeho další dům stojí na rohu ulic Komenského (dnešní třída Tomáše Bati) a Školní, delší stranou fasády orientovaný k bývalé Komenského škole. Tento polyfunkční dům na Školní ulici č. p. 203 byl postaven pro manžele Aloise a Františku Nakládalovy podle návrhu Miroslava Lorence, významného architekta „nebaťovské“ tváře Zlína. Lorenc po přesunu z Prahy do Zlína více než rok působil ve Stavebním oddělení firmy Baťa, ale nakonec se prosadil jako samostatný architekt, pro zlínské měšťany a živnostníky vytvořil asi 60 realizací. Nakládalův dům má obvyklou typologii kombinující komerční a obytnou funkci. ",
+        "historyText": "Zlínský podnikatel Alois Nakládal vlastnil úspěšné zelinářství a několik nemovitostí ve středu Zlína. Jednou z nich je dům na Rašínově ulici, prodaný po postavení koncem 20. let. Další dům, navržený Miroslavem Lorencem, stojí na rohu ulic Komenského a Školní. Výstavba probíhala 1933–1934. Jedná se o třípatrovou stavbu s obchody v přízemí a byty ve vyšších podlažích. Fasáda je jednoduše členěna do pravidelného rastru oken. Po rekonstrukcích je stále využíván, zůstává v zachovalém stavu s původní fasádou.",
+        "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1021_17cd43e00b.jpg"
+    },
+    {
+        "name": "Vila Tomáše Bati",
+        "date": "1912",
+        "architect": "František Novák, Jan Kotěra",
+        "wgs84": {
+            "latitude": "49.2292958",
+            "longitude": "17.6578861"
+        },
+        "adresa": "Čepkov, Gahurova 292",
+        "historyText": "Vila Tomáše Bati je významnou zlínskou historickou památkou, reprezentující vilovou architekturu raného modernismu. Postavena v letech 1909-1911 jako rodinné sídlo Tomáše Baťi, kombinuje prvky neoklasicismu s anglickým stylem. Spolupráce s architektem Janem Kotěrou přinesla přepracování původního návrhu. Umístěna severně od železnice s terasou proti záplavám, vila nabízí prostorné interiéry s vysokými stropy a velkými okny. Po rekonstrukci v letech 1996-1998 sídlí v ní dnes Nadace Tomáše Bati",
         "imageUrl" : "https://zam.zlin.eu/data/photo/thumb/1021_17cd43e00b.jpg"
     }
 ]
